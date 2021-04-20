@@ -9,6 +9,7 @@ NeuroStartUp — динамически развивающийся старта�
 JavaScript:
 
 <script src="https://localhost/neuro.sdk.min.js"></script>
+
 Java (Maven):
 
 <dependency>
